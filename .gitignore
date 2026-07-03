@@ -1,0 +1,6 @@
+data/
+models/LinearRegression.pkl
+models/RandomForest.pkl
+__pycache__/
+*.pyc
+.env
