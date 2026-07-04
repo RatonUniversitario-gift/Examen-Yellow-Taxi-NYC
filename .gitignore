@@ -4,3 +4,4 @@ models/RandomForest.pkl
 __pycache__/
 *.pyc
 .env
+models/modelo_final.pkl
